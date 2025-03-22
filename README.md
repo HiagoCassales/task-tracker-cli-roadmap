@@ -1,5 +1,6 @@
 # Task Tracker CLI
-Project URL: https://github.com/HiagoCassales/task-tracker-cli-roadmap
+https://roadmap.sh/projects/task-tracker
+
 
 ## About the Project
 
