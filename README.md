@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Task Tracker CLI
 
 ## About the Project
